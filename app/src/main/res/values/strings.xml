@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IG.Local</string>
+    <string name="header_title">IG.LOCAL</string>
+    <string name="username">Stefie_PL3B2</string>
+    <string name="lbl_post">12\nPost</string>
+    <string name="lbl_follower">14k\nFollower</string>
+    <string name="lbl_following">612\nFollowing</string>
+    <string name="bio_text">Buat anak-anak TRPL, tetap semangat dan sukses selalu ya!</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="share_profile">Share Profile</string>
+</resources>
